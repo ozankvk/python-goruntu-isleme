@@ -36,11 +36,3 @@ edges=cv2.Canny(foto,100,200)
 cv2.imshow('Canny',edges)
 
 
-
-
-
-           
-
-sdfgsdfs
-
-
